@@ -1,0 +1,10 @@
+
+もしコンソールのプロンプトの前に (myvenv) という文字が表示されていない時は、virtualenv が実行されていないので、有効にする必要があります。
+
+仮想環境を起動
+myvenv\Scripts\activate
+
+Webサーバーを起動
+python manage.py runserver
+
+
